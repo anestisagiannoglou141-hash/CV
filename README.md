@@ -22,6 +22,7 @@ University of Uppsala, Sweden, 2023-2065. (The Spatiality of the Anabasis)
 Languages: 
 International English Language Testing System (IELTS): 7,5/9.
 ECCE Michigan Proficiency, English. ESB, English.
+
 ● Greek
 ● English
 ● Ancient Greek (Attic, Koine)
