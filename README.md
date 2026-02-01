@@ -46,7 +46,7 @@ Previous Excavations:
 
 Molyvoti, Thrace (MTAP), under the auspices of the American School of Classical Studies at Athens, represented by Princeton University and the Rhodopi Ephorate of Antiquities June-July 2023 
 
--Agistri, Argosaronic (LISP), under the auspices of the Swedish Institute at Athens, represented by Uppsala University, October 2024.
+Agistri, Argosaronic (LISP), under the auspices of the Swedish Institute at Athens, represented by Uppsala University, October 2024.
 
 Museum Experience: 
 
