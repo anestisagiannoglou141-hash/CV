@@ -1,4 +1,4 @@
-# -Anestis Agiannoglou
+# Anestis Agiannoglou
 
 **Email:** anestisagiannoglou@yahoo.gr  
 **Location:** Uppsala, Sweden.
