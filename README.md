@@ -1,4 +1,4 @@
-# Anestis Panagiotis Agiannoglou
+`# Anestis Panagiotis Agiannoglou
 
 **Email:** anestisagiannoglou@yahoo.gr  
 **Location:** Uppsala, Sweden.
@@ -42,7 +42,7 @@ Geoinformatics (QGIS), Archaeological Applications, July- August 2022.
 
 ECDL Certification 
 
-Previous Excavations: 
+**Previous Excavations**: 
 
 Molyvoti, Thrace (MTAP), under the auspices of the American School of Classical Studies at Athens, represented by Princeton University and the Rhodopi Ephorate of Antiquities June-July 2023 
 
@@ -60,7 +60,7 @@ Internship for the writing of an article on the archaeological implementations o
 
 Chess, Cartography, Forest Exploration.
 
-Library Experience: 
+**Library Experience**: 
 
 Librarian of the Uplands Administerial Subdivision Nation, August 2023-2024. Founder of the Uplands Adminesterial Subdivision Library Chess Club, September 2023.
 
