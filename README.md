@@ -8,19 +8,19 @@ Name: Anestis Panagiotis
 
 Surname: Agiannoglou
 
-Adress: Sernanders Väg 9, Uppsala, Sweden / Olympiados 48, Thessaloniki, Greece 
+**Adress**: Sernanders Väg 9, Uppsala, Sweden / Olympiados 48, Thessaloniki, Greece 
 
-Cell Phone number: 
+**Cell Phone number**: 
 +30 6982773877 
 
-Relevant Education: 
+**Relevant Education**: 
 
 BA in History and Archaeology, University of Ioannina, Greece, 2018-2023. 
 
 MA in Classical Archaeology and Ancient History
 University of Uppsala, Sweden, 2023-2026. (The Spatiality of the Anabasis)
 
-Languages: 
+**Languages**: 
 International English Language Testing System (IELTS): 7,5/9.
 
 ECCE Michigan Proficiency, English. ESB, English.
@@ -36,7 +36,7 @@ ECCE Michigan Proficiency, English. ESB, English.
 ● Coptic (Sahidic)
 
 
-Summer Workshop:
+**Summer Workshop**:
 
 Geoinformatics (QGIS), Archaeological Applications, July- August 2022.
 
@@ -48,15 +48,15 @@ Molyvoti, Thrace (MTAP), under the auspices of the American School of Classical 
 
 Agistri, Argosaronic (LISP), under the auspices of the Swedish Institute at Athens, represented by Uppsala University, October 2024.
 
-Museum Experience: 
+**Museum Experience**: 
 
 Internship at The Olympic Games Museum in Thessaloniki July-August 2022.
 
-Internships: 
+**Internships**: 
 
 Internship for the writing of an article on the archaeological implementations of the Kobotoolbox and Mergin Maps software, as implemented on the L.I.S.P archaeological project, October-November 2024.
 
-Interests: 
+**Interests**: 
 
 Chess, Cartography, Forest Exploration.
 
@@ -64,10 +64,10 @@ Library Experience:
 
 Librarian of the Uplands Administerial Subdivision Nation, August 2023-2024. Founder of the Uplands Adminesterial Subdivision Library Chess Club, September 2023.
 
-Societies:
+**Societies**:
 
 Member of the Hellenic Polar Zones Society, November 2023- now. Member of the Association of Ancient Historians: January 2024-now.
 
-Scholarships:
+**Scholarships**:
 
 Alex Persson Scholarship, September- October 2024.
