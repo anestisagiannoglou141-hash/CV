@@ -4,9 +4,9 @@
 **Location:** Uppsala, Sweden.
 
 ## Summary
-Name: Anestis Panagiotis 
+**Name**: Anestis Panagiotis 
 
-Surname: Agiannoglou
+**Surname**: Agiannoglou
 
 **Adress**: Sernanders Väg 9, Uppsala, Sweden / Olympiados 48, Thessaloniki, Greece 
 
