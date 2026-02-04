@@ -81,4 +81,4 @@ Alex Persson Scholarship, September- October 2024.
 
 ECDL Certification 2025
 
-Driver's License B2
+Driver's License B2 2026
