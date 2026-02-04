@@ -22,9 +22,12 @@ MA in Classical Archaeology and Ancient History
 University of Uppsala, Sweden, 2023-2026. (The Spatiality of the Anabasis)
 
 **Languages**: 
+
 International English Language Testing System (IELTS): 7,5/9.
 
-ECCE Michigan Proficiency, English. ESB, English.
+ECCE Michigan Proficiency,English
+
+ESB, English.
 
 ● Greek
 
