@@ -71,7 +71,9 @@ Founder of the Uplands Adminesterial Subdivision Library Chess Club, September 2
 
 **Societies**:
 
-Member of the Hellenic Polar Zones Society, November 2023- now. Member of the Association of Ancient Historians: January 2024-now.
+Member of the Hellenic Polar Zones Society, November 2023- now. 
+
+Member of the Association of Ancient Historians: January 2024-now.
 
 **Scholarships**:
 
