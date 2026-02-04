@@ -45,8 +45,6 @@ ESB, English.
 
 Geoinformatics (QGIS), Archaeological Applications, July- August 2022.
 
-ECDL Certification 2025
-
 **Previous Excavations**: 
 
 Molyvoti, Thrace (MTAP), under the auspices of the American School of Classical Studies at Athens, represented by Princeton University and the Rhodopi Ephorate of Antiquities June-July 2023 
@@ -78,3 +76,9 @@ Member of the Hellenic Polar Zones Society, November 2023- now. Member of the As
 **Scholarships**:
 
 Alex Persson Scholarship, September- October 2024.
+
+**Cerifications**
+
+ECDL Certification 2025
+
+Driver's License B2
